@@ -1,2 +1,1 @@
-# Selenium
-Learning Selenium Webdriver with Java (JUnit + Page Object Model)
+Learning Selenium Webdriver with Java (JUnit + Page Object Model).
